@@ -5,7 +5,7 @@
 Clone repository:
 
 ```sh
-git clone https://github.com/glebchanskiy/music-industry-ui.git
+git clone https://github.com/glebchanskiy/game-industry-ui.git
 ```
 
 ## Run
@@ -13,7 +13,7 @@ git clone https://github.com/glebchanskiy/music-industry-ui.git
 Navigate to the project directory and run the project using npm:
 
 ```shell
-cd music-industry-ui
+cd game-industry-ui
 npm install
 npm run dev
 ```
